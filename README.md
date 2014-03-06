@@ -1,6 +1,7 @@
 tripping-octo-wight
 ===================
-Primary purpose is to act as a portfolio of sorts for rchughye@uwaterloo.ca
+Primary purpose is to act as a portfolio of sorts for rchughye@uwaterloo.ca .
+So far includes Project Euler problems and a back end prototype of data mining software
 
 Cobb.py
 ===================
