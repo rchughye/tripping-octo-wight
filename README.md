@@ -4,7 +4,7 @@ Primary purpose is to act as a portfolio of sorts.
 
 So far includes Project Euler problems and a back end prototype of data mining software
 
-rchughye@uwaterloo.ca or ilikepi3@gmail.com
+rchughye@uwaterloo.ca
 3/6/2014
 
 Cobb.py
