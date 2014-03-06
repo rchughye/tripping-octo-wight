@@ -11,7 +11,7 @@ Project Euler
 ===================
 http://projecteuler.net/problems
 
-All solutions and comment thought processes are entirely my own work
+All solutions and comment thought processes within the code are entirely my own work
 
 
 Cobb.py
