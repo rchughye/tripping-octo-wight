@@ -1,7 +1,11 @@
 tripping-octo-wight
 ===================
-Primary purpose is to act as a portfolio of sorts for rchughye@uwaterloo.ca .
+Primary purpose is to act as a portfolio of sorts.
+
 So far includes Project Euler problems and a back end prototype of data mining software
+
+rchughye@uwaterloo.ca or ilikepi3@gmail.com
+3/6/2014
 
 Cobb.py
 ===================
@@ -23,8 +27,6 @@ iteratively mines information from the table presented.
 (Assumes a format with table numbers/positions currently valid at 2/26/2014)
 Note for user/testing: Website limits searches only up to a span of 3 days. Empty output provided otherwise
 
-rchughye@uwaterloo.ca or ilikepi3@gmail.com
-2/26/2014
 
 Libraries:
 ===================
