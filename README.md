@@ -7,6 +7,11 @@ So far includes Project Euler problems and a back end prototype of data mining s
 rchughye@uwaterloo.ca
 3/6/2014
 
+Project Euler
+===================
+http://projecteuler.net/problems
+
+
 Cobb.py
 ===================
 
