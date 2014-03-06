@@ -1,6 +1,9 @@
 tripping-octo-wight
 ===================
-Currently for the sole purpose of displaying the Cobb.py code.
+Primary purpose is to act as a portfolio of sorts for rchughye@uwaterloo.ca
+
+Cobb.py
+===================
 
 OVERVIEW:
 On: http://www.cobbsheriff.org/inmate/JMS_Admit_Review.asp?
