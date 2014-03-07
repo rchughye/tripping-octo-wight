@@ -9,7 +9,6 @@
 
 # Generalizable method given a list of primes up to the largest number:
 # record the maximum number of times each prime occurs in any given prime factorization
-# In this example, only 2,3,5,7 will be repeated more than once
 
 #initialize
 primes = [2,3,5,7,11,13,17,19]
