@@ -2,16 +2,12 @@ tripping-octo-wight
 ===================
 Primary purpose is to act as a portfolio of sorts.
 
-So far includes Project Euler problems and a back end prototype of data mining software
+So far includes a back end prototype of data mining software and Project Euler problems
 
 rchughye@uwaterloo.ca
 3/6/2014
 
-Project Euler
-===================
-http://projecteuler.net/problems
 
-All solutions and comment thought processes within the code are entirely my own work
 
 
 Cobb.py
@@ -39,3 +35,10 @@ Libraries:
 ===================
 beautiful soup v4.1
 http://www.crummy.com/software/BeautifulSoup/bs4/download/4.1/
+
+
+Project Euler
+===================
+http://projecteuler.net/problems
+
+All solutions and comment thought processes within the code are entirely my own work
