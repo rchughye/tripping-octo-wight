@@ -41,4 +41,8 @@ Project Euler
 ===================
 http://projecteuler.net/problems
 
-All solutions and comment thought processes within the code are entirely my own work
+Problem 11 was interesting for matrix representation of numbers
+
+Problem 12 was interesting for requiring efficiency improvements to get a reasonable runtime from the naive implementation
+
+All solutions and commented thought processes within the code are my own work
