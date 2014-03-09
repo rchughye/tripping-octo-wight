@@ -1,4 +1,4 @@
-# Cobb.py v1.4 (WORKING BACK-END PROTOTYPE)
+# Cobb Public.py (WORKING BACK-END PROTOTYPE)
 
 # Changelog v1.4 2/26/2014
 # Sample for public viewing: valid as of 2/26/2014 from 
