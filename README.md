@@ -4,6 +4,8 @@ Primary purpose is to act as a portfolio of sorts.
 
 Currently includes: a back end prototype of data mining software (Cobb Public.py) and Project Euler problems
 
+.py scripts were made for Python Version 2.6
+
 rchughye@uwaterloo.ca
 3/6/2014
 
