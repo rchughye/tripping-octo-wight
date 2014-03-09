@@ -6,7 +6,8 @@
 # Triangular number is the sum of the arithmetic series
 # closed form  Sn = n(n+1)/2
 # Process: Get Triangle number, find divisors, check if greater than 500 divisors, repeat
-# Note: the below method seems to be somewhat inefficient, took approx 7 seconds to process
+# Note: the below method seems to be somewhat inefficient, took approx 7 seconds to process.
+# let n be the nth Triangle number
 # is O(n^2) runtime currently, reduced from O(n^3) by noting one only has to go to sqrt(T_num) when checking for divisors
 # Would not terminate in a reasonable time unless efficiency improved.
 
