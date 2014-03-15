@@ -49,6 +49,8 @@ Problem 11: matrix representation of numbers
 
 Problem 12: requiring efficiency improvements to get a reasonable runtime from the naive implementation
 
-Problem 17: date and string parsing
+Problem 17: string parsing
+
+Problem 19: date and string parsing
 
 All solutions and commented thought processes within the code are my own work
