@@ -51,6 +51,8 @@ Problem 12: requiring efficiency improvements to get a reasonable runtime from t
 
 Problem 17: string parsing
 
+Problem 18/67: Iterating through nodes, optimizing paths
+
 Problem 19: date and string parsing
 
 All solutions and commented thought processes within the code are my own work
