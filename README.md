@@ -43,7 +43,7 @@ Project Euler
 ===================
 http://projecteuler.net/problems
 
-Problems that were particularly interesting to me:
+Problems that were particularly interesting:
 
 Problem 11: matrix representation of numbers
 
@@ -54,5 +54,7 @@ Problem 17: string parsing
 Problem 18/67: Iterating through nodes, optimizing paths
 
 Problem 19: date and string parsing
+
+Problem 23: runtime dramatically reduced by applying mathematical properties into algorithm
 
 All solutions and commented thought processes within the code are my own work
