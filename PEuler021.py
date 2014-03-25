@@ -25,7 +25,8 @@ def sum_divisors(num):
     for d in range(1,int(math.sqrt(num))+1): # when checking divisors, only need to go up to sqrt(num)
         if num % d == 0:
             divisors += [d]
-            divisors += [num/d]
+            if num/d != d: # avoid duplicates of squares
+                divisors += [num/d]
     return (sum(divisors) - num) # num is not a proper divisor
 
 #if d(d(a)) = a  and d(a) != a , add a to total
