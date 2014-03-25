@@ -25,7 +25,8 @@ while flag == False:
     for d in range(1,int(math.sqrt(T_num+1))): # when checking divisors, only need to go up to sqrt(T_num)
         if T_num % d == 0:
             divisors += [d]
-            divisors += [T_num/d]
+            if T_num != d: # avoid duplicates of squares
+                divisors += [T_num/d]
     if len(divisors) > 500:
         flag = True
         #print divisors
