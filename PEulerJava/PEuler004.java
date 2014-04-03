@@ -1,4 +1,4 @@
-public class Main {
+public class PEuler004 {
 
 	/**Euler Problem #4: Largest palindrome product
 	 * http://projecteuler.net/problem=4
