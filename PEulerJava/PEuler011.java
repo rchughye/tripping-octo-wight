@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class problem011 {
+public class Problem011 {
 
 	/**
 # Euler Problem #11: Largest product in a grid
