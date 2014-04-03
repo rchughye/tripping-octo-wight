@@ -1,8 +1,7 @@
 tripping-octo-wight
 ===================
-Primary purpose is to act as a portfolio of sorts.
+Primary purpose is to act as a portfolio of sorts. This currently includes: a back end prototype of data mining software (Cobb Public.py) and Project Euler problems
 
-Currently includes: a back end prototype of data mining software (Cobb Public.py) and Project Euler problems
 
 Duplicate Project Euler problems done in Java were adapted from their respective Python counterparts
 
