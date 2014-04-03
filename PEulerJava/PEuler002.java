@@ -1,4 +1,4 @@
-public class Main {
+public class PEuler002 {
 
 	/**  Euler Problem #2: Even Fibonacci numbers
 		# http://projecteuler.net/problem=2
