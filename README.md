@@ -7,6 +7,7 @@ Currently includes: a back end prototype of data mining software (Cobb Public.py
 Duplicate Project Euler problems done in Java were adapted from their respective Python counterparts
 
 .py scripts were made for Python Version 2.6
+
 .java files were made for jre6 on eclipse version 3.8.2 from the default ADT package
 
 rchughye@uwaterloo.ca
