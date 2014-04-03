@@ -1,4 +1,4 @@
-public class Main {
+public class PEuler010{
 
 	/**
 	 * #  Euler Problem #10: Summation of primes
