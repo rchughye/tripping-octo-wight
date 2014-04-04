@@ -25,9 +25,10 @@ public class PEuler011 {
 		data = new int[20][20];
 		int countRow = 0;
 		int countColumn= 0;
+		Scanner input = null;
 
 		try{
-		Scanner input = new Scanner(new File ("p11.txt"));
+		input = new Scanner(new File ("p11.txt"));
 		
 		while (input.hasNextLine()) {
 			
@@ -47,6 +48,9 @@ public class PEuler011 {
 		
 		catch(IOException ioe){
 			System.err.println("Some Error: " + ioe.getMessage());
+		}
+		finally{
+			input.close();
 		}
 		
 		// Step 2:
