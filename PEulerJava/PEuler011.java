@@ -50,7 +50,8 @@ public class PEuler011 {
 			System.err.println("Some Error: " + ioe.getMessage());
 		}
 		finally{
-			input.close();
+			if (input != null)
+				input.close();
 		}
 		
 		// Step 2:
