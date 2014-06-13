@@ -10,7 +10,7 @@ Duplicate Project Euler problems done in Java were adapted from their respective
 .java files were made for jre6 on eclipse version 3.8.2 from the default ADT package
 
 rchughye@uwaterloo.ca
-4/3/2014
+6/13/2014
 
 
 
